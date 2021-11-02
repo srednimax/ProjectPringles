@@ -1,0 +1,150 @@
+﻿<UserControl x:Class="PringlesApp.MVVM.View.RatingView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PringlesApp.MVVM.View"
+             xmlns:viewModel="clr-namespace:PringlesApp.MVVM.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="{DynamicResource MaterialDesignLightSeparatorBackground}">
+    <UserControl.DataContext>
+        <viewModel:RatingViewModel/>
+    </UserControl.DataContext>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Wyszukiwarka" VerticalAlignment="Bottom" />
+            <TextBox Grid.Row="1" Grid.Column="0" VerticalAlignment="Bottom" 
+                     Text="{Binding SelectedFlavor,UpdateSourceTrigger=PropertyChanged}" />
+            <Button Grid.Row="1" Grid.Column="1" Content="Dodaj smak" Height="auto" Margin="10,0" 
+                    Command="{Binding AddFlavorCommand}"/>
+            <Button Grid.Row="1" Grid.Column="2" Content="Usuń ocenę" Height="auto" Margin="10,0"
+                    Command="{Binding DeleteCommand}"/>
+            <Button Grid.Row="1" Grid.Column="3" Content="Dodaj ocenę" Height="auto" Margin="10,0" 
+                    Command="{Binding AddCommand}"/>
+        </Grid>
+        <Grid Grid.Row="1" >
+            <DataGrid x:Name="DataGrid" AutoGenerateColumns="false" IsReadOnly="True"
+                      SelectedItem="{Binding Rating}" 
+                      ItemsSource="{Binding SelectedRatings}" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Pringles" Binding="{Binding Pringles.Flavor}"/>
+                    <DataGridTextColumn Header="Ocena" Binding="{Binding Score }"/>
+                    <DataGridTextColumn Header="Doznanie smakowe" Binding="{Binding Description }"/>
+                    <DataGridTextColumn Header="Data oceny" Binding="{Binding CreatedOn,StringFormat={}{0:yyyy-mm-dd h:m:ss} }"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Popup Grid.Row="0" Width="500" Height="100" Placement="Center"
+               Style="{DynamicResource MaterialDesignMultiFloatingActionAccentPopupBox}"
+               IsOpen="{Binding IsOpenAddRating}">
+            <Grid Background="DarkCyan" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="0.1*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="0.5*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.1*"/>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="0.1*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.1*"/>
+                    <ColumnDefinition Width="*"/>
+                    
+                   
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Row="1" Grid.Column="0"  Text="Smak" 
+                           Style="{DynamicResource MaterialDesignBody1TextBlock }"/>
+                <ComboBox Grid.Row="3" Grid.Column="0" 
+                          SelectedIndex="{Binding UserRating.Flavor}" 
+                          ItemsSource="{Binding AvailablePringles}">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel  Orientation="Horizontal">
+                                <TextBlock Text="{Binding Flavor}"/>
+                                <TextBlock Text=" - "/>
+                                <TextBlock Text="{Binding Description}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                    
+                </ComboBox>
+                <TextBlock Grid.Row="1" Grid.Column="2" Text="Ocena" 
+                           Style="{DynamicResource MaterialDesignBody1TextBlock}"/>
+                <ComboBox Grid.Row="3" Grid.Column="2" VerticalAlignment="Bottom" 
+                          SelectedIndex="{Binding UserRating.Score}" 
+                          ItemsSource="{Binding Scores}"/>
+                
+                <TextBlock Grid.Row="1" Grid.Column="4" Text="Doznanie smakowe" 
+                           Style="{DynamicResource MaterialDesignBody1TextBlock}"/>
+                <TextBox Grid.Row="3" Grid.Column="4" VerticalAlignment="Bottom" MaxLength="250" 
+                         Text="{Binding UserRating.Description}"/>
+                
+                <Button Grid.Row="1" Grid.Column="6" Content="Anuluj" 
+                        Command="{Binding CancelCommand}"/>
+                <Button Grid.Row="3" Grid.Column="6" Content="Zatwierdź" 
+                        Command="{Binding ConfirmCommand}"/>
+
+                
+            </Grid>
+        </Popup>
+        <Popup Grid.Row="0" Width="500" Height="100" Placement="Center"
+               Style="{DynamicResource MaterialDesignMultiFloatingActionAccentPopupBox}"
+               IsOpen="{Binding IsOpenAddFlavor}" >
+            <Grid Background="DarkCyan">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="0.1*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="0.5*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.1*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="0.1*"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Row="1" Grid.Column="0"  Text="Nowy Smak" 
+                           Style="{DynamicResource MaterialDesignBody1TextBlock }"/>
+                <TextBox Grid.Row="3" Grid.Column="0" VerticalAlignment="Bottom" MaxLength="100" 
+                         Text="{Binding NewPringles.Flavor}"/>
+
+                <TextBlock Grid.Row="1" Grid.Column="2" Text="Opis" 
+                           Style="{DynamicResource MaterialDesignBody1TextBlock}"/>
+                <TextBox Grid.Row="3" Grid.Column="2" VerticalAlignment="Bottom" MaxLength="250" 
+                         Text="{Binding NewPringles.Description}"/>
+
+                <Button Grid.Row="1" Grid.Column="4" Content="Anuluj" 
+                        Command="{Binding CancelFlavorCommand}"/>
+                <Button Grid.Row="3" Grid.Column="4" Content="Zatwierdź" 
+                        Command="{Binding ConfirmFlavorCommand}"/>
+
+            </Grid>
+        </Popup>
+    </Grid>
+</UserControl>

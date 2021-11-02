@@ -1,0 +1,147 @@
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\ConnectionString.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.exe
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.deps.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.runtimeconfig.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.runtimeconfig.dev.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\ref\PringlesDatabase.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Humanizer.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.csprojAssemblyReference.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.AssemblyInfoInputs.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.AssemblyInfo.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.csproj.CopyComplete
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\ref\PringlesDatabase.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.genruntimeconfig.cache
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\ConnectionString.json
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.exe
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.deps.json
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.runtimeconfig.json
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.runtimeconfig.dev.json
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\ref\PringlesDatabase.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\PringlesDatabase.pdb
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Humanizer.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos c\ProjectPringles\PringlesDatabase\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.csproj.AssemblyReference.cache
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.AssemblyInfoInputs.cache
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.AssemblyInfo.cs
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.csproj.CoreCompileInputs.cache
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.dll
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\ref\PringlesDatabase.dll
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.pdb
+D:\repos c\ProjectPringles\PringlesDatabase\obj\Debug\net5.0\PringlesDatabase.genruntimeconfig.cache

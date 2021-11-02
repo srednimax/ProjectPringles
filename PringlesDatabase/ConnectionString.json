@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "PringlesDatabase": "Data Source=DESKTOP-6LKDIAB;Database=Pringles;Integrated Security=True;"
+  }
+}

@@ -1,0 +1,20 @@
+﻿PringlesApp
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\
+PringlesApp
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+D:\repos c\ProjectPringles\PringlesApp\App.xaml
+71160284550
+
+28-274998577
+232291047951
+MainWindow.xaml;MVVM\View\ContactView.xaml;MVVM\View\HomePageView.xaml;MVVM\View\LoginView.xaml;MVVM\View\ProfileVIew.xaml;MVVM\View\RatingView.xaml;MVVM\View\SignUpView.xaml;
+
+True
+

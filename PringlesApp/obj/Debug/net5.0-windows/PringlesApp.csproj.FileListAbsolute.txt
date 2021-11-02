@@ -1,0 +1,197 @@
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.deps.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.runtimeconfig.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.runtimeconfig.dev.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.exe
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ConnectionString.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.exe
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.deps.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.runtimeconfig.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.runtimeconfig.dev.json
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ref\PringlesApp.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ShowMeTheXAML.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.Windows.Interactivity.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csprojAssemblyReference.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ContactView.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\HomePageView.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\LoginView.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ProfileVIew.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\RatingView.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\SignUpView.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp_MarkupCompile.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp_MarkupCompile.lref
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\App.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ContactView.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\HomePageView.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\LoginView.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ProfileVIew.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\RatingView.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\SignUpView.baml
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.g.resources
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.AssemblyInfoInputs.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.AssemblyInfo.cs
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csproj.Fody.CopyLocal.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csproj.CopyComplete
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\ref\PringlesApp.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.pdb
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.genruntimeconfig.cache
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\MahApps.Metro.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maksy\source\repos\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\de\MahApps.Metro.resources.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ConnectionString.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.deps.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.runtimeconfig.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.runtimeconfig.dev.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.exe
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.exe
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.deps.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.runtimeconfig.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.runtimeconfig.dev.json
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ref\PringlesApp.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesApp.pdb
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Humanizer.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\MahApps.Metro.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\ShowMeTheXAML.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\Microsoft.Expression.Interactions.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\System.Windows.Interactivity.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\de\MahApps.Metro.resources.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.dll
+D:\repos c\ProjectPringles\PringlesApp\bin\Debug\net5.0-windows\PringlesDatabase.pdb
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csproj.AssemblyReference.cache
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ContactView.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\HomePageView.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\LoginView.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ProfileVIew.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\RatingView.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\SignUpView.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\App.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp_MarkupCompile.cache
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp_MarkupCompile.lref
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\App.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ContactView.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\HomePageView.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\LoginView.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\ProfileVIew.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\RatingView.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\MVVM\View\SignUpView.baml
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.g.resources
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.AssemblyInfoInputs.cache
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.AssemblyInfo.cs
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csproj.CoreCompileInputs.cache
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.csproj.Fody.CopyLocal.cache
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.dll
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\ref\PringlesApp.dll
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.pdb
+D:\repos c\ProjectPringles\PringlesApp\obj\Debug\net5.0-windows\PringlesApp.genruntimeconfig.cache
